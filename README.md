@@ -2,7 +2,7 @@
 I had issues self-hosting my [cal.com](https://github.com/calcom/cal.com) instance. So I just embeded my hosted insatnce to still have a custom domain
 
 # Requirements
-[Install Docker](https://docs.docker.com/get-docker/)
+Install [Docker](https://docs.docker.com/get-docker/)
 
 # Installation
 Clone this repository
