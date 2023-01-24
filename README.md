@@ -23,5 +23,5 @@ Run Docker Container
 
 `docker run -p 8080:80 -d calendar-embed`
 
-#Custom Domain
+# Custom Domain
 To use you own domain consider using a reverse proxy like [Traefik](https://github.com/traefik/traefik)
