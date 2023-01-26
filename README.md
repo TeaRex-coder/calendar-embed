@@ -15,9 +15,21 @@ Update <cal.com url> with your URL
 
 `nano index.html`
 
+## Build with Docker Compose
+```yaml
+version: '3'
+services:
+  calendar-embed:
+    build: .
+    ports:
+      - "8080:80"
+    container_name: calendar-container
+```
+
+## Alternativley build with docker run
 Build Docker image
 
-`docker build <file path> -t calendar-embed`
+`docker build . -t calendar-embed`
 
 Run Docker Container
 
