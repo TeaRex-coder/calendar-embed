@@ -16,6 +16,7 @@ Update <cal.com url> with your URL
 `nano index.html`
 
 ## Build with Docker Compose
+docker-compose.yml
 ```yaml
 version: '3'
 services:
