@@ -26,6 +26,10 @@ services:
     container_name: calendar-container
 ```
 
+`
+docker compose up -d --force-recreate
+`
+
 ## Alternativley build with docker run
 Build Docker image
 
