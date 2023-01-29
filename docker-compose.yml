@@ -5,3 +5,4 @@ services:
     ports:
       - "8080:80"
     container_name: calendar-container
+    restart: unless-stopped
