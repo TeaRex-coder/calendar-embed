@@ -31,7 +31,7 @@
 Cal("init", { origin: "https://app.cal.com" });
 Cal("inline", {
   elementOrSelector: "#my-cal-inline",
-  calLink: "alexboutoille",
+  calLink: "name-here",
 });
 
 Cal("ui", {
