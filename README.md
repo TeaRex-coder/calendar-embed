@@ -11,9 +11,9 @@ git clone https://github.com/TeaRex-coder/calendar-embed.git
 cd calendar-embed
 ```
 
-Update <cal.com url> with your URL
+Update calLink: "name-here", with your calLink
 
-`nano index.html`
+`nano script.js`
 
 ## Build with Docker Compose
 docker-compose.yml
