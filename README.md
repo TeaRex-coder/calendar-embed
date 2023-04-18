@@ -9,11 +9,12 @@ I had issues self-hosting my [Cal.com](https://github.com/calcom/cal.com) instan
 
 ## Installation
 
-Clone this repository
+Clone this repository + setup
 
 ```bash
 git clone https://github.com/TeaRex-coder/calendar-embed.git
 cd calendar-embed
+ht
 ```
 
 Update calLink: "name-here", with your calLink
