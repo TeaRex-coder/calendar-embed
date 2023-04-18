@@ -1,8 +1,0 @@
-version: '3'
-services:
-  calendar-embed:
-    build: .
-    ports:
-      - "8080:80"
-    container_name: calendar-container
-    restart: unless-stopped
