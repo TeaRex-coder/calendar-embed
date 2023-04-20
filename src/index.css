@@ -1,0 +1,14 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: f3f4f6;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #0f0f0f;
+  }
+}

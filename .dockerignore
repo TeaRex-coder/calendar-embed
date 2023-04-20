@@ -1,0 +1,14 @@
+**/node_modules
+
+# Ignore build artifacts
+build/
+dist/
+*.log
+
+# Ignore editor files
+.vscode/
+.idea/
+
+# Ignore miscellaneous files
+.DS_Store
+.env
