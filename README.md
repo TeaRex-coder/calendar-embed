@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8019099/210054112-5955e812-a76e-4160-9ddd-58f2c72f1cce.png">
+</p>
+
 <h3 align="center">Running Cal.com embed in a Docker Container</h3>
 
 <p align="center">
