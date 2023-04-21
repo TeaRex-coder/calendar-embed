@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from "react";
 import Calendar from "./components/Calendar";
 import Height from "./components/Height";
 import "./App.css";
