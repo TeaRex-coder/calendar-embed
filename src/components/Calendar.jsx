@@ -4,7 +4,7 @@ const Calendar = () => (
   <Cal
     calOrigin="https://cal.com"
     embedJsUrl="https://cal.com/embed/embed.js"
-    calLink="alexboutoille"
+    calLink="name-here"
   />
 );
 
