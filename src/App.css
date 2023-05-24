@@ -1,9 +1,0 @@
-body {
-  overflow: hidden;
-}
-
-@media (max-height: 725px) {
-  body {
-    overflow: visible;
-  }
-}

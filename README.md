@@ -35,28 +35,11 @@ git clone https://github.com/TeaRex-coder/calendar-embed.git
 cd calendar-embed
 ```
 
-Update calLink: "name-here", with your calLink
+Update calLink: "alexboutoille", with your calLink
 
 `nano /src/components/Calendar.jsx`
 
-### Using Docker Hub Image
-
-To use the Docker Hub image alexandreboutoille/calendar-embed, edit the `docker-compose.yml` file as follows:
-
-```yaml
-version: "3.8"
-services:
-  calendar-embed:
-    image: alexandreboutoille/calendar-embed:latest
-    ports:
-      - "8080:80"
-    container_name: calendar-container
-    restart: unless-stopped
-```
-
-`docker compose up -d --force-recreate`
-
-### Alternativley build with Docker Compose
+### Build with Docker Compose
 
 docker-compose.yml
 
