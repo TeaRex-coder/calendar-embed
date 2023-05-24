@@ -1,13 +1,9 @@
 import Calendar from "./components/Calendar";
-import Height from "./components/Height";
-import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <Height maxHeight={725}>
-        <Calendar />
-      </Height>
+    <div>
+      <Calendar />
     </div>
   );
 }
