@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/TeaRex-coder/calendar-embed?style=for-the-badge">
-  <img src="https://img.shields.io/docker/stars/alexandreboutoille/calendar-embed?style=for-the-badge">
-  <img src="https://img.shields.io/docker/pulls/alexandreboutoille/calendar-embed?style=for-the-badge">
   <img src="https://img.shields.io/github/languages/code-size/TeaRex-coder/calendar-embed?style=for-the-badge">
 </p>
 
