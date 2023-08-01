@@ -26,6 +26,22 @@ I had issues self-hosting my [Cal.com](https://github.com/calcom/cal.com) instan
 
 ## Installation
 
+### Vercel
+
+Fork this repository
+
+`gh repo fork https://github.com/TeaRex-coder/calendar-embed --clone=true && cd calendar-embed`
+
+Update calLink: "alexboutoille", with your calLink
+
+`nano /src/components/Calendar.jsx`
+
+Deploy with Vercel from your fork
+
+[Vercel Docs](https://vercel.com/docs/concepts/deployments/overview#vercel-cli)
+
+### Self-Host
+
 Clone this repository + setup
 
 ```bash
@@ -37,7 +53,7 @@ Update calLink: "alexboutoille", with your calLink
 
 `nano /src/components/Calendar.jsx`
 
-### Build with Docker Compose
+**Build with Docker Compose**
 
 docker-compose.yml
 
