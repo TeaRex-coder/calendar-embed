@@ -1,6 +1,6 @@
 "use client";
 
-import Calendar from "./components/Calendar";
+import Calendar from "./components/calendar";
 import { Analytics } from "@vercel/analytics/react";
 
 const App: React.FC = () => {
