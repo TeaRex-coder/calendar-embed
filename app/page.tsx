@@ -1,13 +1,15 @@
+"use client";
+
 import Calendar from "./components/Calendar";
 import { Analytics } from "@vercel/analytics/react";
 
-function App() {
+const App: React.FC = () => {
   return (
-    <div>
+    <div className="pt-3">
       <Calendar />
       <Analytics />
     </div>
   );
-}
+};
 
 export default App;
