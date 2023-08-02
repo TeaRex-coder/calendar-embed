@@ -1,6 +1,6 @@
 import Cal from "@calcom/embed-react";
 
-const Calendar: React.FC = () => (
+const Calendar = () => (
   <div className="calendar-container">
     <Cal
       calOrigin="https://cal.com"
